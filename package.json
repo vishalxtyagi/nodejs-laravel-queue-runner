@@ -4,6 +4,7 @@
   "description": "A Node.js script to manage Laravel queue workers in shared hosting environments",
   "main": "worker.js",
   "scripts": {
+    "start": "node worker.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

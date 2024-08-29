@@ -23,7 +23,7 @@ This Node.js script provides a workaround for running Laravel queue workers in s
 Run the script with Node.js:
 
 ```
-node index.js
+node worker.js
 ```
 
 Or use npm:
